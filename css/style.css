@@ -1,0 +1,17 @@
+/*
+primary: #ff4081
+p-light: #ff79b0
+p-dark: #c60055
+secondary: #000000 #e676e6
+s-light: #66ffa6
+s-dark: #00b248
+
+*/
+
+body {
+    background-color:#ff4081
+
+}
+h1, h2 {
+    font-family: 'Rammetto One', cursive;
+}
