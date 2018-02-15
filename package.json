@@ -1,0 +1,33 @@
+{
+  "name": "seanrestaurant",
+  "version": "1.0.0",
+  "description": "A fun website for people who like tacos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stf279/seanrestaurant.git"
+  },
+  "keywords": [
+    "tacos",
+    "gulp"
+  ],
+  "author": "Sean",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stf279/seanrestaurant/issues"
+  },
+  "homepage": "https://github.com/stf279/seanrestaurant#readme",
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp-autoprefixer": "^4.1.0",
+    "gulp-html-beautify": "^1.0.1",
+    "gulp-less": "^3.5.0",
+    "gulp-watch": "^5.0.0"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
